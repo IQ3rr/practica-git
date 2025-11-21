@@ -1,5 +1,5 @@
 # practica Git
-Ikher Leonardo Jimenez Rodriguez, 21/11/2025
+Esta es la entrega de la actividad 1 de introduccion a la programacion
 
 Autor: Ikher Leonardo Jimenez Rodriguez
 
