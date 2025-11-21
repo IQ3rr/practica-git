@@ -1,5 +1,5 @@
 # practica Git
-Esta es la entrega de la actividad 1 de introduccion a la programacion
+Esta es la entrega de la actividad 1 de fundamentos de la programacion
 
 Autor: Ikher Leonardo Jimenez Rodriguez
 
